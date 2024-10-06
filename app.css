@@ -1,0 +1,19 @@
+.app-container {
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+
+.head1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 2; 
+}
+
+.imageslider-container img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
